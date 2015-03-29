@@ -4,7 +4,7 @@ import "fmt"
 
 func main(){
 
-  fmt.Println("go" + "lang")
+  fmt.Println("go" + "lang") // String concat with +
 
   fmt.Println("1+1 =", 1+1)
 
